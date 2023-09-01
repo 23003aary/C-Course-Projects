@@ -1,2 +1,2 @@
 # C-Course-Projects
-Collaborated with a partner to complete the following projects in C
+Collaborated with a partner to complete the following projects in C. The first project is labeled 'Restaurant.c'. In this project our goal was to create the backend of a mobile ordering app. The projects aim was to help us implement and gain faimilarity with pointers and stacks and queues, while keeping track of memory usage. The second project is labeled 'QR-Code.c'. The projects goal was to implement concepts of bit-masking, hexidecimal, and binary to create a encryption and decryption system. The end result of the code is a QR code generated from a string of words and a processes to unveil the sentence a QR code might reveal. 
